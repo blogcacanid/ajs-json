@@ -1,0 +1,46 @@
+  [
+    {
+      "NewsItemId": "1",
+      "HeadLine": "Belajar AngularJS",
+      "DateLine": "Posted by BY CACAN CO,- AUGUST 27, 2018",
+      "WebURL": "https://blog.cacan.id/belajar-angularjs/",
+      "Caption": "Belajar AngularJS",
+      "Image": {
+        "Photo": "img/belajar-angular-js.jpg",
+        "Thumb": "img/belajar-angular-js.jpg",
+        "PhotoCaption": ""
+      },
+      "Keywords": "",
+      "Story": "AngularJS merupakan framework javascript open souce yang dirilis oleh google pada tahun 2009. Konsep dari AngularJS adalah meningkatkan fungsi dari HTML untuk membangun web app. Bayangkan awalnya HTML hanya digunakan untuk membuat halaman website statis dan kini bisa berfungsi untuk membuat web app dengan menggunakan AngularJS."
+    },
+    {
+      "NewsItemId": "2",
+      "HeadLine": "Belajar Vue JS",
+      "DateLine": "Posted by BY CACAN CO,- FEBRUARY 3, 2019",
+      "WebURL": "https://blog.cacan.id/belajar-vue-js/",
+      "Caption": "Belajar Vue JS",
+      "Image": {
+        "Photo": "img/belajar-vue-js.jpg",
+        "Thumb": "img/belajar-vue-js.jpg",
+        "PhotoCaption": ""
+      },
+      "Keywords": "",
+      "Story": "Pekerja di Hongkong dapat bekerja sampai 10 jam dalam sehari, Rata-rata pekerja di Hongkong bekerja selama 2.606 jam per tahun. Apabila dibandingkan, pekerja di kota Paris hanya menghabiskan 1.604 jam dalam setahun untuk bekerja. Hal tersebut bahkan setengah dari rata-rata pekerja di hong kong."
+    },
+    {
+      "NewsItemId": "3",
+      "HeadLine": "Belajar React JS",
+      "DateLine": "Posted by BY CACAN CO,- JANUARY 13, 2019",
+      "WebURL": "https://blog.cacan.id/belajar-react-js/",
+      "Caption": "Belajar React JS",
+      "Image": {
+        "Photo": "img/belajar-react-js.jpg",
+        "Thumb": "img/belajar-react-js.jpg",
+        "PhotoCaption": ""
+      },
+      "Keywords": "",
+      "Story": "React JS adalah library Javascript yang dikembangkan oleh facebook. ReactJS dapat kita gunakan untuk membangun antarmuka pengguna atau User Interface, yang meng-Handle layer view atau tampilan untuk web ataupun aplikasi mobile."
+    }
+  
+  ]
+  
